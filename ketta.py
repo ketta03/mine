@@ -1,0 +1,1 @@
+print("ketta" * 20)
